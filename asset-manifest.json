@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/travel_agency1/static/css/main.592595df.chunk.css",
-    "main.js": "/travel_agency1/static/js/main.147c78b6.chunk.js",
-    "main.js.map": "/travel_agency1/static/js/main.147c78b6.chunk.js.map",
+    "main.css": "/travel_agency1/static/css/main.3439c050.chunk.css",
+    "main.js": "/travel_agency1/static/js/main.f8790eb8.chunk.js",
+    "main.js.map": "/travel_agency1/static/js/main.f8790eb8.chunk.js.map",
     "runtime-main.js": "/travel_agency1/static/js/runtime-main.5af6cb2b.js",
     "runtime-main.js.map": "/travel_agency1/static/js/runtime-main.5af6cb2b.js.map",
-    "static/css/2.de424728.chunk.css": "/travel_agency1/static/css/2.de424728.chunk.css",
-    "static/js/2.d0b0bd49.chunk.js": "/travel_agency1/static/js/2.d0b0bd49.chunk.js",
-    "static/js/2.d0b0bd49.chunk.js.map": "/travel_agency1/static/js/2.d0b0bd49.chunk.js.map",
+    "static/js/2.f1d70bee.chunk.js": "/travel_agency1/static/js/2.f1d70bee.chunk.js",
+    "static/js/2.f1d70bee.chunk.js.map": "/travel_agency1/static/js/2.f1d70bee.chunk.js.map",
     "index.html": "/travel_agency1/index.html",
-    "precache-manifest.0aa3019217dd34ba4124d23612504650.js": "/travel_agency1/precache-manifest.0aa3019217dd34ba4124d23612504650.js",
+    "precache-manifest.cc8e8fedf21362064dc4b70291bf21ba.js": "/travel_agency1/precache-manifest.cc8e8fedf21362064dc4b70291bf21ba.js",
     "service-worker.js": "/travel_agency1/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/travel_agency1/static/css/2.de424728.chunk.css.map",
-    "static/css/main.592595df.chunk.css.map": "/travel_agency1/static/css/main.592595df.chunk.css.map",
-    "static/js/2.d0b0bd49.chunk.js.LICENSE.txt": "/travel_agency1/static/js/2.d0b0bd49.chunk.js.LICENSE.txt",
+    "static/css/main.3439c050.chunk.css.map": "/travel_agency1/static/css/main.3439c050.chunk.css.map",
+    "static/js/2.f1d70bee.chunk.js.LICENSE.txt": "/travel_agency1/static/js/2.f1d70bee.chunk.js.LICENSE.txt",
     "static/media/Default_Jumbotron.jpg": "/travel_agency1/static/media/Default_Jumbotron.e2e740f5.jpg",
     "static/media/Taiwan_1.png": "/travel_agency1/static/media/Taiwan_1.77b5d8c3.png",
     "static/media/Taiwan_2.png": "/travel_agency1/static/media/Taiwan_2.51bcd342.png",
@@ -28,13 +26,13 @@
     "static/media/free_n_easy.jpg": "/travel_agency1/static/media/free_n_easy.5dc917f6.jpg",
     "static/media/home.jpg": "/travel_agency1/static/media/home.62a22de9.jpg",
     "static/media/membership.jpg": "/travel_agency1/static/media/membership.f88f52f7.jpg",
+    "static/media/style.scss": "/travel_agency1/static/media/rsc.f9886ab6.svg",
     "static/media/underConstruction.module.css": "/travel_agency1/static/media/website-under_construction.ead3c5bc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5af6cb2b.js",
-    "static/css/2.de424728.chunk.css",
-    "static/js/2.d0b0bd49.chunk.js",
-    "static/css/main.592595df.chunk.css",
-    "static/js/main.147c78b6.chunk.js"
+    "static/js/2.f1d70bee.chunk.js",
+    "static/css/main.3439c050.chunk.css",
+    "static/js/main.f8790eb8.chunk.js"
   ]
 }
